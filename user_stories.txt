@@ -1,0 +1,3 @@
+1. Als gebruiker wil ik dat de Stress Blob verandert in grootte, vorm en beweging op basis van mijn stressniveau, zodat ik op een duidelijke en visuele manier kan zien hoe gespannen ik ben.
+2. Als gebruiker wil ik interactieve activiteiten kunnen uitvoeren, zoals ademhalingsoefeningen en grounding-oefeningen, zodat ik op een laagdrempelige manier mijn stress kan proberen te verminderen.
+3. Als gebruiker wil ik tijdens en na een activiteit kunnen zien dat de Stress Blob rustiger wordt, zodat ik visueel kan zien welk effect de activiteit op mijn ervaren stressniveau heeft.
